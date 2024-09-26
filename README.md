@@ -3,8 +3,8 @@
 
 Meu nome é Rafael Lucas.
 
-- Estudante do Alura.
+- Estudando no Alura.
 - Estou desenvolvimento na linguagem javascript.
 - Fã de Warhammer.
 
-
+![](https://tenor.com/bVx5d.gif)
