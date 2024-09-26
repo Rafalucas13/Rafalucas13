@@ -6,6 +6,7 @@ Meu nome é Rafael Lucas.
 - Estudando no Alura.
 - Estou desenvolvimento na linguagem javascript.
 - Fã de Warhammer.
+- É só¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 
 ## Meu e-mail
 
@@ -13,4 +14,4 @@ Meu nome é Rafael Lucas.
 
 
 
-![](https://tenor.com/btlWG.gif)
+![](https://tenor.com/bU4Ay.gif)
