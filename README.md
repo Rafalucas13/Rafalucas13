@@ -1,8 +1,9 @@
-## Salve👋
+## Ave Império! ☀️🛡️
 
 
-**Rafalucas13/Rafalucas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Meu nome é Rafael Lucas.
+-Estudante do Alura.
+-Estou desenvolvimento na linguagem javascript.
+-Fã de Warhammer.
 
 
