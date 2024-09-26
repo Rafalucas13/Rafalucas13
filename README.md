@@ -7,7 +7,10 @@ Meu nome é Rafael Lucas.
 - Estou desenvolvimento na linguagem javascript.
 - Fã de Warhammer.
 
+## Meu e-mail
+
+-00001116481789sp@al.educacao.sp.gov.br
 
 
 
-![](https://tenor.com/bdwt5.gif)
+![](https://tenor.com/btlWG.gif)
